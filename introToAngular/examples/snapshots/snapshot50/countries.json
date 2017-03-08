@@ -1,1094 +1,1317 @@
 [
   {
     "name": "WORLD",
-    "id": 900
-  },
-  {
-    "name": "More developed regions",
-    "id": 901
-  },
-  {
-    "name": "Less developed regions",
-    "id": 902
-  },
-  {
-    "name": "Least developed countries",
-    "id": 941
-  },
-  {
-    "name": "Less developed regions, excluding least developed countries",
-    "id": 934
-  },
-  {
-    "name": "Less developed regions, excluding China",
-    "id": 948
-  },
-  {
-    "name": "High-income countries",
-    "id": 1503
-  },
-  {
-    "name": "Middle-income countries",
-    "id": 1517
-  },
-  {
-    "name": "Upper-middle-income countries",
-    "id": 1502
-  },
-  {
-    "name": "Lower-middle-income countries",
-    "id": 1501
-  },
-  {
-    "name": "Low-income countries",
-    "id": 1500
+    "id": 900,
+    "population": "7 349 472"
   },
   {
     "name": "Sub-Saharan Africa",
-    "id": 947
+    "id": 947,
+    "population": "962 287"
   },
   {
     "name": "AFRICA",
-    "id": 903
+    "id": 903,
+    "population": "1 186 178"
   },
   {
     "name": "Eastern Africa",
-    "id": 910
+    "id": 910,
+    "population": "394 477"
   },
   {
     "name": "Burundi",
-    "id": 108
+    "id": 108,
+    "population": "11 179"
   },
   {
     "name": "Comoros",
-    "id": 174
+    "id": 174,
+    "population": 788
   },
   {
     "name": "Djibouti",
-    "id": 262
+    "id": 262,
+    "population": 888
   },
   {
     "name": "Eritrea",
-    "id": 232
+    "id": 232,
+    "population": "5 228"
   },
   {
     "name": "Ethiopia",
-    "id": 231
+    "id": 231,
+    "population": "99 391"
   },
   {
     "name": "Kenya",
-    "id": 404
+    "id": 404,
+    "population": "46 050"
   },
   {
     "name": "Madagascar",
-    "id": 450
+    "id": 450,
+    "population": "24 235"
   },
   {
     "name": "Malawi",
-    "id": 454
+    "id": 454,
+    "population": "17 215"
   },
   {
     "name": "Mauritius",
-    "id": 480
+    "id": 480,
+    "population": "1 273"
   },
   {
     "name": "Mayotte",
-    "id": 175
+    "id": 175,
+    "population": 240
   },
   {
     "name": "Mozambique",
-    "id": 508
+    "id": 508,
+    "population": "27 978"
   },
   {
     "name": "R�union",
-    "id": 638
+    "id": 638,
+    "population": 861
   },
   {
     "name": "Rwanda",
-    "id": 646
+    "id": 646,
+    "population": "11 610"
   },
   {
     "name": "Seychelles",
-    "id": 690
+    "id": 690,
+    "population": 96
   },
   {
     "name": "Somalia",
-    "id": 706
+    "id": 706,
+    "population": "10 787"
   },
   {
     "name": "South Sudan",
-    "id": 728
+    "id": 728,
+    "population": "12 340"
   },
   {
     "name": "Uganda",
-    "id": 800
+    "id": 800,
+    "population": "39 032"
   },
   {
     "name": "United Republic of Tanzania",
-    "id": 834
+    "id": 834,
+    "population": "53 470"
   },
   {
     "name": "Zambia",
-    "id": 894
+    "id": 894,
+    "population": "16 212"
   },
   {
     "name": "Zimbabwe",
-    "id": 716
+    "id": 716,
+    "population": "15 603"
   },
   {
     "name": "Middle Africa",
-    "id": 911
+    "id": 911,
+    "population": "151 952"
   },
   {
     "name": "Angola",
-    "id": 24
+    "id": 24,
+    "population": "25 022"
   },
   {
     "name": "Cameroon",
-    "id": 120
+    "id": 120,
+    "population": "23 344"
   },
   {
     "name": "Central African Republic",
-    "id": 140
+    "id": 140,
+    "population": "4 900"
   },
   {
     "name": "Chad",
-    "id": 148
+    "id": 148,
+    "population": "14 037"
   },
   {
     "name": "Congo",
-    "id": 178
+    "id": 178,
+    "population": "4 620"
   },
   {
     "name": "Democratic Republic of the Congo",
-    "id": 180
+    "id": 180,
+    "population": "77 267"
   },
   {
     "name": "Equatorial Guinea",
-    "id": 226
+    "id": 226,
+    "population": 845
   },
   {
     "name": "Gabon",
-    "id": 266
+    "id": 266,
+    "population": "1 725"
   },
   {
     "name": "Sao Tome and Principe",
-    "id": 678
+    "id": 678,
+    "population": 190
   },
   {
     "name": "Northern Africa",
-    "id": 912
+    "id": 912,
+    "population": "223 892"
   },
   {
     "name": "Algeria",
-    "id": 12
+    "id": 12,
+    "population": "39 667"
   },
   {
     "name": "Egypt",
-    "id": 818
+    "id": 818,
+    "population": "91 508"
   },
   {
     "name": "Libya",
-    "id": 434
+    "id": 434,
+    "population": "6 278"
   },
   {
     "name": "Morocco",
-    "id": 504
+    "id": 504,
+    "population": "34 378"
   },
   {
     "name": "Sudan",
-    "id": 729
+    "id": 729,
+    "population": "40 235"
   },
   {
     "name": "Tunisia",
-    "id": 788
+    "id": 788,
+    "population": "11 254"
   },
   {
     "name": "Western Sahara",
-    "id": 732
+    "id": 732,
+    "population": 573
   },
   {
     "name": "Southern Africa",
-    "id": 913
+    "id": 913,
+    "population": "62 634"
   },
   {
     "name": "Botswana",
-    "id": 72
+    "id": 72,
+    "population": "2 262"
   },
   {
     "name": "Lesotho",
-    "id": 426
+    "id": 426,
+    "population": "2 135"
   },
   {
     "name": "Namibia",
-    "id": 516
+    "id": 516,
+    "population": "2 459"
   },
   {
     "name": "South Africa",
-    "id": 710
+    "id": 710,
+    "population": "54 490"
   },
   {
     "name": "Swaziland",
-    "id": 748
+    "id": 748,
+    "population": "1 287"
   },
   {
     "name": "Western Africa",
-    "id": 914
+    "id": 914,
+    "population": "353 224"
   },
   {
     "name": "Benin",
-    "id": 204
+    "id": 204,
+    "population": "10 880"
   },
   {
     "name": "Burkina Faso",
-    "id": 854
+    "id": 854,
+    "population": "18 106"
   },
   {
     "name": "Cabo Verde",
-    "id": 132
+    "id": 132,
+    "population": 521
   },
   {
     "name": "C�te d'Ivoire",
-    "id": 384
+    "id": 384,
+    "population": "22 702"
   },
   {
     "name": "Gambia",
-    "id": 270
+    "id": 270,
+    "population": "1 991"
   },
   {
     "name": "Ghana",
-    "id": 288
+    "id": 288,
+    "population": "27 410"
   },
   {
     "name": "Guinea",
-    "id": 324
+    "id": 324,
+    "population": "12 609"
   },
   {
     "name": "Guinea-Bissau",
-    "id": 624
+    "id": 624,
+    "population": "1 844"
   },
   {
     "name": "Liberia",
-    "id": 430
+    "id": 430,
+    "population": "4 503"
   },
   {
     "name": "Mali",
-    "id": 466
+    "id": 466,
+    "population": "17 600"
   },
   {
     "name": "Mauritania",
-    "id": 478
+    "id": 478,
+    "population": "4 068"
   },
   {
     "name": "Niger",
-    "id": 562
+    "id": 562,
+    "population": "19 899"
   },
   {
     "name": "Nigeria",
-    "id": 566
+    "id": 566,
+    "population": "182 202"
   },
   {
     "name": "Saint Helena",
-    "id": 654
+    "id": 654,
+    "population": 4
   },
   {
     "name": "Senegal",
-    "id": 686
+    "id": 686,
+    "population": "15 129"
   },
   {
     "name": "Sierra Leone",
-    "id": 694
+    "id": 694,
+    "population": "6 453"
   },
   {
     "name": "Togo",
-    "id": 768
+    "id": 768,
+    "population": "7 305"
   },
   {
     "name": "ASIA",
-    "id": 935
+    "id": 935,
+    "population": "4 393 296"
   },
   {
     "name": "Eastern Asia",
-    "id": 906
+    "id": 906,
+    "population": "1 612 287"
   },
   {
     "name": "China",
-    "id": 156
+    "id": 156,
+    "population": "1 376 049"
   },
   {
     "name": "China, Hong Kong SAR",
-    "id": 344
+    "id": 344,
+    "population": "7 288"
   },
   {
     "name": "China, Macao SAR",
-    "id": 446
+    "id": 446,
+    "population": 588
   },
   {
     "name": "Dem. People's Republic of Korea",
-    "id": 408
+    "id": 408,
+    "population": "25 155"
   },
   {
     "name": "Japan",
-    "id": 392
+    "id": 392,
+    "population": "126 573"
   },
   {
     "name": "Mongolia",
-    "id": 496
+    "id": 496,
+    "population": "2 959"
   },
   {
     "name": "Republic of Korea",
-    "id": 410
+    "id": 410,
+    "population": "50 293"
   },
   {
     "name": "Other non-specified areas",
-    "id": 158
+    "id": 158,
+    "population": "23 381"
   },
   {
     "name": "South-Central Asia",
-    "id": 921
+    "id": 921,
+    "population": "1 890 288"
   },
   {
     "name": "Central Asia",
-    "id": 5500
+    "id": 5500,
+    "population": "67 314"
   },
   {
     "name": "Kazakhstan",
-    "id": 398
+    "id": 398,
+    "population": "17 625"
   },
   {
     "name": "Kyrgyzstan",
-    "id": 417
+    "id": 417,
+    "population": "5 940"
   },
   {
     "name": "Tajikistan",
-    "id": 762
+    "id": 762,
+    "population": "8 482"
   },
   {
     "name": "Turkmenistan",
-    "id": 795
+    "id": 795,
+    "population": "5 374"
   },
   {
     "name": "Uzbekistan",
-    "id": 860
+    "id": 860,
+    "population": "29 893"
   },
   {
     "name": "Southern Asia",
-    "id": 5501
+    "id": 5501,
+    "population": "1 822 974"
   },
   {
     "name": "Afghanistan",
-    "id": 4
+    "id": 4,
+    "population": "32 527"
   },
   {
     "name": "Bangladesh",
-    "id": 50
+    "id": 50,
+    "population": "160 996"
   },
   {
     "name": "Bhutan",
-    "id": 64
+    "id": 64,
+    "population": 775
   },
   {
     "name": "India",
-    "id": 356
+    "id": 356,
+    "population": "1 311 051"
   },
   {
     "name": "Iran (Islamic Republic of)",
-    "id": 364
+    "id": 364,
+    "population": "79 109"
   },
   {
     "name": "Maldives",
-    "id": 462
+    "id": 462,
+    "population": 364
   },
   {
     "name": "Nepal",
-    "id": 524
+    "id": 524,
+    "population": "28 514"
   },
   {
     "name": "Pakistan",
-    "id": 586
+    "id": 586,
+    "population": "188 925"
   },
   {
     "name": "Sri Lanka",
-    "id": 144
+    "id": 144,
+    "population": "20 715"
   },
   {
     "name": "South-Eastern Asia",
-    "id": 920
+    "id": 920,
+    "population": "633 490"
   },
   {
     "name": "Brunei Darussalam",
-    "id": 96
+    "id": 96,
+    "population": 423
   },
   {
     "name": "Cambodia",
-    "id": 116
+    "id": 116,
+    "population": "15 578"
   },
   {
     "name": "Indonesia",
-    "id": 360
+    "id": 360,
+    "population": "257 564"
   },
   {
     "name": "Lao People's Democratic Republic",
-    "id": 418
+    "id": 418,
+    "population": "6 802"
   },
   {
     "name": "Malaysia",
-    "id": 458
+    "id": 458,
+    "population": "30 331"
   },
   {
     "name": "Myanmar",
-    "id": 104
+    "id": 104,
+    "population": "53 897"
   },
   {
     "name": "Philippines",
-    "id": 608
+    "id": 608,
+    "population": "100 699"
   },
   {
     "name": "Singapore",
-    "id": 702
+    "id": 702,
+    "population": "5 604"
   },
   {
     "name": "Thailand",
-    "id": 764
+    "id": 764,
+    "population": "67 959"
   },
   {
     "name": "Timor-Leste",
-    "id": 626
+    "id": 626,
+    "population": "1 185"
   },
   {
     "name": "Viet Nam",
-    "id": 704
+    "id": 704,
+    "population": "93 448"
   },
   {
     "name": "Western Asia",
-    "id": 922
+    "id": 922,
+    "population": "257 231"
   },
   {
     "name": "Armenia",
-    "id": 51
+    "id": 51,
+    "population": "3 018"
   },
   {
     "name": "Azerbaijan",
-    "id": 31
+    "id": 31,
+    "population": "9 754"
   },
   {
     "name": "Bahrain",
-    "id": 48
+    "id": 48,
+    "population": "1 377"
   },
   {
     "name": "Cyprus",
-    "id": 196
+    "id": 196,
+    "population": "1 165"
   },
   {
     "name": "Georgia",
-    "id": 268
+    "id": 268,
+    "population": "4 000"
   },
   {
     "name": "Iraq",
-    "id": 368
+    "id": 368,
+    "population": "36 423"
   },
   {
     "name": "Israel",
-    "id": 376
+    "id": 376,
+    "population": "8 064"
   },
   {
     "name": "Jordan",
-    "id": 400
+    "id": 400,
+    "population": "7 595"
   },
   {
     "name": "Kuwait",
-    "id": 414
+    "id": 414,
+    "population": "3 892"
   },
   {
     "name": "Lebanon",
-    "id": 422
+    "id": 422,
+    "population": "5 851"
   },
   {
     "name": "Oman",
-    "id": 512
+    "id": 512,
+    "population": "4 491"
   },
   {
     "name": "Qatar",
-    "id": 634
+    "id": 634,
+    "population": "2 235"
   },
   {
     "name": "Saudi Arabia",
-    "id": 682
+    "id": 682,
+    "population": "31 540"
   },
   {
     "name": "State of Palestine",
-    "id": 275
+    "id": 275,
+    "population": "4 668"
   },
   {
     "name": "Syrian Arab Republic",
-    "id": 760
+    "id": 760,
+    "population": "18 502"
   },
   {
     "name": "Turkey",
-    "id": 792
+    "id": 792,
+    "population": "78 666"
   },
   {
     "name": "United Arab Emirates",
-    "id": 784
+    "id": 784,
+    "population": "9 157"
   },
   {
     "name": "Yemen",
-    "id": 887
+    "id": 887,
+    "population": "26 832"
   },
   {
     "name": "EUROPE",
-    "id": 908
+    "id": 908,
+    "population": "738 442"
   },
   {
     "name": "Eastern Europe",
-    "id": 923
+    "id": 923,
+    "population": "292 943"
   },
   {
     "name": "Belarus",
-    "id": 112
+    "id": 112,
+    "population": "9 496"
   },
   {
     "name": "Bulgaria",
-    "id": 100
+    "id": 100,
+    "population": "7 150"
   },
   {
     "name": "Czech Republic",
-    "id": 203
+    "id": 203,
+    "population": "10 543"
   },
   {
     "name": "Hungary",
-    "id": 348
+    "id": 348,
+    "population": "9 855"
   },
   {
     "name": "Poland",
-    "id": 616
+    "id": 616,
+    "population": "38 612"
   },
   {
     "name": "Republic of Moldova",
-    "id": 498
+    "id": 498,
+    "population": "4 069"
   },
   {
     "name": "Romania",
-    "id": 642
+    "id": 642,
+    "population": "19 511"
   },
   {
     "name": "Russian Federation",
-    "id": 643
+    "id": 643,
+    "population": "143 457"
   },
   {
     "name": "Slovakia",
-    "id": 703
+    "id": 703,
+    "population": "5 426"
   },
   {
     "name": "Ukraine",
-    "id": 804
+    "id": 804,
+    "population": "44 824"
   },
   {
     "name": "Northern Europe",
-    "id": 924
+    "id": 924,
+    "population": "102 358"
   },
   {
     "name": "Channel Islands",
-    "id": 830
+    "id": 830,
+    "population": 164
   },
   {
     "name": "Denmark",
-    "id": 208
+    "id": 208,
+    "population": "5 669"
   },
   {
     "name": "Estonia",
-    "id": 233
+    "id": 233,
+    "population": "1 313"
   },
   {
     "name": "Faeroe Islands",
-    "id": 234
+    "id": 234,
+    "population": 48
   },
   {
     "name": "Finland",
-    "id": 246
+    "id": 246,
+    "population": "5 503"
   },
   {
     "name": "Iceland",
-    "id": 352
+    "id": 352,
+    "population": 329
   },
   {
     "name": "Ireland",
-    "id": 372
+    "id": 372,
+    "population": "4 688"
   },
   {
     "name": "Isle of Man",
-    "id": 833
+    "id": 833,
+    "population": 88
   },
   {
     "name": "Latvia",
-    "id": 428
+    "id": 428,
+    "population": "1 971"
   },
   {
     "name": "Lithuania",
-    "id": 440
+    "id": 440,
+    "population": "2 878"
   },
   {
     "name": "Norway",
-    "id": 578
+    "id": 578,
+    "population": "5 211"
   },
   {
     "name": "Sweden",
-    "id": 752
+    "id": 752,
+    "population": "9 779"
   },
   {
     "name": "United Kingdom",
-    "id": 826
+    "id": 826,
+    "population": "64 716"
   },
   {
     "name": "Southern Europe",
-    "id": 925
+    "id": 925,
+    "population": "152 348"
   },
   {
     "name": "Albania",
-    "id": 8
+    "id": 8,
+    "population": "2 897"
   },
   {
     "name": "Andorra",
-    "id": 20
+    "id": 20,
+    "population": 70
   },
   {
     "name": "Bosnia and Herzegovina",
-    "id": 70
+    "id": 70,
+    "population": "3 810"
   },
   {
     "name": "Croatia",
-    "id": 191
+    "id": 191,
+    "population": "4 240"
   },
   {
     "name": "Gibraltar",
-    "id": 292
+    "id": 292,
+    "population": 32
   },
   {
     "name": "Greece",
-    "id": 300
+    "id": 300,
+    "population": "10 955"
   },
   {
     "name": "Holy See",
-    "id": 336
+    "id": 336,
+    "population": 1
   },
   {
     "name": "Italy",
-    "id": 380
+    "id": 380,
+    "population": "59 798"
   },
   {
     "name": "Malta",
-    "id": 470
+    "id": 470,
+    "population": 419
   },
   {
     "name": "Montenegro",
-    "id": 499
+    "id": 499,
+    "population": 626
   },
   {
     "name": "Portugal",
-    "id": 620
+    "id": 620,
+    "population": "10 350"
   },
   {
     "name": "San Marino",
-    "id": 674
+    "id": 674,
+    "population": 32
   },
   {
     "name": "Serbia",
-    "id": 688
+    "id": 688,
+    "population": "8 851"
   },
   {
     "name": "Slovenia",
-    "id": 705
+    "id": 705,
+    "population": "2 068"
   },
   {
     "name": "Spain",
-    "id": 724
+    "id": 724,
+    "population": "46 122"
   },
   {
     "name": "TFYR Macedonia",
-    "id": 807
+    "id": 807,
+    "population": "2 078"
   },
   {
     "name": "Western Europe",
-    "id": 926
+    "id": 926,
+    "population": "190 794"
   },
   {
     "name": "Austria",
-    "id": 40
+    "id": 40,
+    "population": "8 545"
   },
   {
     "name": "Belgium",
-    "id": 56
+    "id": 56,
+    "population": "11 299"
   },
   {
     "name": "France",
-    "id": 250
+    "id": 250,
+    "population": "64 395"
   },
   {
     "name": "Germany",
-    "id": 276
+    "id": 276,
+    "population": "80 689"
   },
   {
     "name": "Liechtenstein",
-    "id": 438
+    "id": 438,
+    "population": 38
   },
   {
     "name": "Luxembourg",
-    "id": 442
+    "id": 442,
+    "population": 567
   },
   {
     "name": "Monaco",
-    "id": 492
+    "id": 492,
+    "population": 38
   },
   {
     "name": "Netherlands",
-    "id": 528
+    "id": 528,
+    "population": "16 925"
   },
   {
     "name": "Switzerland",
-    "id": 756
+    "id": 756,
+    "population": "8 299"
   },
   {
     "name": "LATIN AMERICA AND THE CARIBBEAN",
-    "id": 904
+    "id": 904,
+    "population": "634 387"
   },
   {
     "name": "Caribbean",
-    "id": 915
+    "id": 915,
+    "population": "43 199"
   },
   {
     "name": "Anguilla",
-    "id": 660
+    "id": 660,
+    "population": 15
   },
   {
     "name": "Antigua and Barbuda",
-    "id": 28
+    "id": 28,
+    "population": 92
   },
   {
     "name": "Aruba",
-    "id": 533
+    "id": 533,
+    "population": 104
   },
   {
     "name": "Bahamas",
-    "id": 44
+    "id": 44,
+    "population": 388
   },
   {
     "name": "Barbados",
-    "id": 52
+    "id": 52,
+    "population": 284
   },
   {
     "name": "British Virgin Islands",
-    "id": 92
+    "id": 92,
+    "population": 30
   },
   {
     "name": "Caribbean Netherlands",
-    "id": 535
+    "id": 535,
+    "population": 25
   },
   {
     "name": "Cayman Islands",
-    "id": 136
+    "id": 136,
+    "population": 60
   },
   {
     "name": "Cuba",
-    "id": 192
+    "id": 192,
+    "population": "11 390"
   },
   {
     "name": "Cura�ao",
-    "id": 531
+    "id": 531,
+    "population": 157
   },
   {
     "name": "Dominica",
-    "id": 212
+    "id": 212,
+    "population": 73
   },
   {
     "name": "Dominican Republic",
-    "id": 214
+    "id": 214,
+    "population": "10 528"
   },
   {
     "name": "Grenada",
-    "id": 308
+    "id": 308,
+    "population": 107
   },
   {
     "name": "Guadeloupe",
-    "id": 312
+    "id": 312,
+    "population": 468
   },
   {
     "name": "Haiti",
-    "id": 332
+    "id": 332,
+    "population": "10 711"
   },
   {
     "name": "Jamaica",
-    "id": 388
+    "id": 388,
+    "population": "2 793"
   },
   {
     "name": "Martinique",
-    "id": 474
+    "id": 474,
+    "population": 396
   },
   {
     "name": "Montserrat",
-    "id": 500
+    "id": 500,
+    "population": 5
   },
   {
     "name": "Puerto Rico",
-    "id": 630
+    "id": 630,
+    "population": "3 683"
   },
   {
     "name": "Saint Kitts and Nevis",
-    "id": 659
+    "id": 659,
+    "population": 56
   },
   {
     "name": "Saint Lucia",
-    "id": 662
+    "id": 662,
+    "population": 185
   },
   {
     "name": "Saint Vincent and the Grenadines",
-    "id": 670
+    "id": 670,
+    "population": 109
   },
   {
     "name": "Sint Maarten (Dutch part)",
-    "id": 534
+    "id": 534,
+    "population": 39
   },
   {
     "name": "Trinidad and Tobago",
-    "id": 780
+    "id": 780,
+    "population": "1 360"
   },
   {
     "name": "Turks and Caicos Islands",
-    "id": 796
+    "id": 796,
+    "population": 34
   },
   {
     "name": "United States Virgin Islands",
-    "id": 850
+    "id": 850,
+    "population": 106
   },
   {
     "name": "Central America",
-    "id": 916
+    "id": 916,
+    "population": "172 740"
   },
   {
     "name": "Belize",
-    "id": 84
+    "id": 84,
+    "population": 359
   },
   {
     "name": "Costa Rica",
-    "id": 188
+    "id": 188,
+    "population": "4 808"
   },
   {
     "name": "El Salvador",
-    "id": 222
+    "id": 222,
+    "population": "6 127"
   },
   {
     "name": "Guatemala",
-    "id": 320
+    "id": 320,
+    "population": "16 343"
   },
   {
     "name": "Honduras",
-    "id": 340
+    "id": 340,
+    "population": "8 075"
   },
   {
     "name": "Mexico",
-    "id": 484
+    "id": 484,
+    "population": "127 017"
   },
   {
     "name": "Nicaragua",
-    "id": 558
+    "id": 558,
+    "population": "6 082"
   },
   {
     "name": "Panama",
-    "id": 591
+    "id": 591,
+    "population": "3 929"
   },
   {
     "name": "South America",
-    "id": 931
+    "id": 931,
+    "population": "418 447"
   },
   {
     "name": "Argentina",
-    "id": 32
+    "id": 32,
+    "population": "43 417"
   },
   {
     "name": "Bolivia (Plurinational State of)",
-    "id": 68
+    "id": 68,
+    "population": "10 725"
   },
   {
     "name": "Brazil",
-    "id": 76
+    "id": 76,
+    "population": "207 848"
   },
   {
     "name": "Chile",
-    "id": 152
+    "id": 152,
+    "population": "17 948"
   },
   {
     "name": "Colombia",
-    "id": 170
+    "id": 170,
+    "population": "48 229"
   },
   {
     "name": "Ecuador",
-    "id": 218
+    "id": 218,
+    "population": "16 144"
   },
   {
     "name": "Falkland Islands (Malvinas)",
-    "id": 238
+    "id": 238,
+    "population": 3
   },
   {
     "name": "French Guiana",
-    "id": 254
+    "id": 254,
+    "population": 269
   },
   {
     "name": "Guyana",
-    "id": 328
+    "id": 328,
+    "population": 767
   },
   {
     "name": "Paraguay",
-    "id": 600
+    "id": 600,
+    "population": "6 639"
   },
   {
     "name": "Peru",
-    "id": 604
+    "id": 604,
+    "population": "31 377"
   },
   {
     "name": "Suriname",
-    "id": 740
+    "id": 740,
+    "population": 543
   },
   {
     "name": "Uruguay",
-    "id": 858
+    "id": 858,
+    "population": "3 432"
   },
   {
     "name": "Venezuela (Bolivarian Republic of)",
-    "id": 862
+    "id": 862,
+    "population": "31 108"
   },
   {
     "name": "NORTHERN AMERICA",
-    "id": 905
+    "id": 905,
+    "population": "357 838"
   },
   {
     "name": "Bermuda",
-    "id": 60
+    "id": 60,
+    "population": 62
   },
   {
     "name": "Canada",
-    "id": 124
+    "id": 124,
+    "population": "35 940"
   },
   {
     "name": "Greenland",
-    "id": 304
+    "id": 304,
+    "population": 56
   },
   {
     "name": "Saint Pierre and Miquelon",
-    "id": 666
+    "id": 666,
+    "population": 6
   },
   {
     "name": "United States of America",
-    "id": 840
+    "id": 840,
+    "population": "321 774"
   },
   {
     "name": "OCEANIA",
-    "id": 909
+    "id": 909,
+    "population": "39 331"
   },
   {
     "name": "Australia/New Zealand",
-    "id": 927
+    "id": 927,
+    "population": "28 497"
   },
   {
     "name": "Australia",
-    "id": 36
+    "id": 36,
+    "population": "23 969"
   },
   {
     "name": "New Zealand",
-    "id": 554
+    "id": 554,
+    "population": "4 529"
   },
   {
     "name": "Melanesia",
-    "id": 928
+    "id": 928,
+    "population": "9 623"
   },
   {
     "name": "Fiji",
-    "id": 242
+    "id": 242,
+    "population": 892
   },
   {
     "name": "New Caledonia",
-    "id": 540
+    "id": 540,
+    "population": 263
   },
   {
     "name": "Papua New Guinea",
-    "id": 598
+    "id": 598,
+    "population": "7 619"
   },
   {
     "name": "Solomon Islands",
-    "id": 90
+    "id": 90,
+    "population": 584
   },
   {
     "name": "Vanuatu",
-    "id": 548
+    "id": 548,
+    "population": 265
   },
   {
     "name": "Micronesia",
-    "id": 954
+    "id": 954,
+    "population": 526
   },
   {
     "name": "Guam",
-    "id": 316
+    "id": 316,
+    "population": 170
   },
   {
     "name": "Kiribati",
-    "id": 296
+    "id": 296,
+    "population": 112
   },
   {
     "name": "Marshall Islands",
-    "id": 584
+    "id": 584,
+    "population": 53
   },
   {
     "name": "Micronesia (Fed. States of)",
-    "id": 583
+    "id": 583,
+    "population": 104
   },
   {
     "name": "Nauru",
-    "id": 520
+    "id": 520,
+    "population": 10
   },
   {
     "name": "Northern Mariana Islands",
-    "id": 580
+    "id": 580,
+    "population": 55
   },
   {
     "name": "Palau",
-    "id": 585
+    "id": 585,
+    "population": 21
   },
   {
     "name": "Polynesia",
-    "id": 957
+    "id": 957,
+    "population": 684
   },
   {
     "name": "American Samoa",
-    "id": 16
+    "id": 16,
+    "population": 56
   },
   {
     "name": "Cook Islands",
-    "id": 184
+    "id": 184,
+    "population": 21
   },
   {
     "name": "French Polynesia",
-    "id": 258
+    "id": 258,
+    "population": 283
   },
   {
     "name": "Niue",
-    "id": 570
+    "id": 570,
+    "population": 2
   },
   {
     "name": "Samoa",
-    "id": 882
+    "id": 882,
+    "population": 193
   },
   {
     "name": "Tokelau",
-    "id": 772
+    "id": 772,
+    "population": 1
   },
   {
     "name": "Tonga",
-    "id": 776
+    "id": 776,
+    "population": 106
   },
   {
     "name": "Tuvalu",
-    "id": 798
+    "id": 798,
+    "population": 10
   },
   {
     "name": "Wallis and Futuna Islands",
-    "id": 876
+    "id": 876,
+    "population": 13
   }
 ]
