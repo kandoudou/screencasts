@@ -7,7 +7,7 @@ countryControllers.controller('CountryListCtrl', function ($scope, countries){
 });
 
 countryControllers.controller('CountryDetailCtrl', function ($scope, $routeParams, countries){
-  countries.find($routeParams.countryId, function(country) {
-    $scope.country = country;
+  countries.list($routeParams.countryId, function(countries) {
+    $scope.countries = countries;
   });
 });
