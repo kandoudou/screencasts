@@ -11,7 +11,7 @@ countryApp.config(function($routeProvider) {
       templateUrl: 'country-list.html',
       controller: 'CountryListCtrl'
     }).
-    when('/:countryId', {
+    when('/:countryName', {
       templateUrl: 'country-detail.html',
       controller: 'CountryDetailCtrl'
     }).
